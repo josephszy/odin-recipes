@@ -1,3 +1,3 @@
-A simple project to build a website with receipes -> The Odin Project 
+A simple project to build a website with recipes -> The Odin Project 
 
-(WIP) [Receipe Page](https://josephszy.github.io/odin-recipes/)
+(WIP) [Recipe Page](https://josephszy.github.io/odin-recipes/)
