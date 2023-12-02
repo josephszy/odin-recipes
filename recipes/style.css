@@ -1,6 +1,7 @@
 p {
     color:white;
     text-align: center;
+    font-family: sans-serif;
 }
 
 h1, h2 {
@@ -20,7 +21,7 @@ ul,ol {
     font-family: sans-serif;
 
 }
-.lasagna {
+.picture {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -29,10 +30,20 @@ ul,ol {
     height: 225px;
 }
 
-.description {
+.lasagna_description {
     font-size: 17px;
     width: 80%;
     background-color: rgb(222, 184, 135, 0.8);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    max-width: 500px;
+}
+
+.tiramisu_description {
+    font-size: 17px;
+    width: 80%;
+    background-color: rgb(105, 105, 105, 0.5);
     margin-left: auto;
     margin-right: auto;
     padding: 5px;
@@ -51,5 +62,5 @@ a, a:visited {
 }
 
 a:hover, a:active {
-    color:darkolivegreen;
+    color:darkblue;
 }
