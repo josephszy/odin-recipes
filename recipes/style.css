@@ -1,11 +1,3 @@
-body {
-    background-image: url('./images/lasagna_background.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-}
-
 p {
     color:white;
     text-align: center;
