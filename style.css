@@ -2,3 +2,26 @@ h1 {
     text-align: center;
     font-family: sans-serif;
 }
+
+ul{
+    color: white;
+}
+
+.chef {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 320px;
+    height: 300px;
+}
+
+.recipes_list {
+    font-size: 17px;
+    width: 65%;
+    background-color:rgb(255, 255,255, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    max-width: 500px;
+}

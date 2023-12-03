@@ -1,17 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <style>
+        body {
+            background-image: url('./images/main_background.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: right;
+            background-attachment: fixed;
+         }
+    </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
     <link rel="stylesheet" href="style.css">
     <title>My First Webpage</title>
   </head>
   <body>
-    <h1>Odin Recipes</h1>
-    <ul>
-        <li><a rel ="wipped feta recipe" href="recipes/whipped_feta.html">Whipped Feta Recipe</li>
-        <li><a rel ="lasagna recipe" href="recipes/lasagna.html">Lasagna Recipe</a></li>
-        <li><a rel ="tiarmisu recipe" href="recipes/tiramisu.html">Tiarmisu Recipe</a></li>
-      </body>
-    </ul>
+    <main>
+        <h1>Odin Recipes</h1>
+        <img class="chef" src="./images/chef.jpg" alt="a chef">
+        <div class="recipes_list">
+        <h2>Recipes list</h2>
+        <ul>
+            <li><a rel ="wipped feta recipe" href="recipes/whipped_feta.html">Whipped Feta Recipe</li>
+            <li><a rel ="lasagna recipe" href="recipes/lasagna.html">Lasagna Recipe</a></li>
+            <li><a rel ="tiarmisu recipe" href="recipes/tiramisu.html">Tiarmisu Recipe</a></li>
+        </ul>
+        </div>
+    </main>
+</body>
 </html>
