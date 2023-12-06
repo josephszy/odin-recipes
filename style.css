@@ -4,6 +4,9 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-family: sans-serif;
+}
 .chef {
     display: block;
     margin-left: auto;
