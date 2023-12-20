@@ -1,5 +1,5 @@
 A simple project to build a website with HTML and CSS 
 
-The Odin Project: [Recipe Project](https://www.theodinproject.com/lessons/foundations-recipes)
+The Odin Project: [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
 
-Live Website: [Recipe Page](https://josephszy.github.io/odin-recipes/)
+Live Website: [Recipes](https://josephszy.github.io/odin-recipes/)
